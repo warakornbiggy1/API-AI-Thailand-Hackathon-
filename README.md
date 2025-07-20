@@ -77,6 +77,9 @@
 
     Endpoint :  curl http://localhost:8001/
 
+3.การเรียกจากUserไปAPI1ต่อไปยังAPI2 และส่งกลับมายังUser:
+    http://localhost:8000/api1/hello
+
 # 5.โครงสร้างโปรเจกต์ (Project Structure)
 
 Repository มีโครงสร้างดังนี้:
